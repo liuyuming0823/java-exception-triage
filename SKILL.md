@@ -1,6 +1,6 @@
 ---
-name: java-exception-triage
-slug: java-exception-triage
+name: ym-java-exception-triage
+slug: ym-java-exception-triage
 display_name: Java 异常诊断
 display_name_en: Java Exception Triage
 displayName: Java 异常诊断
@@ -22,7 +22,7 @@ trigger:
 agent_created: true
 ---
 
-# Java 异常诊断 (java-exception-triage)
+# Java 异常诊断 (ym-java-exception-triage)
 
 按堆栈证据给 Java 异常定位根因，每条结论都能回溯到具体一行，并严格区分「已证实」和「待验证」——普通对话最容易把「可能」说成「就是」，还爱编运行结果，这里用标签和证据链堵住。
 
